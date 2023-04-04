@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: blue 
+Favorite food: burgers
+Favorite musician/band:ajr 
+Favorite movie: ted 
+Requested grade in the course:104 
